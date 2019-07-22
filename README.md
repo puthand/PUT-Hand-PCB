@@ -1,4 +1,5 @@
-# putHand-PCB
+# PUT-Hand-PCB
+
 Schematics and gerber files for putHand gripper
 
 ## License
